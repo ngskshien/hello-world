@@ -1,5 +1,4 @@
 # hello-world
 
-Hi, visitors.
-I'm writing my first ReadMe in Github.
-Hello.
+I made this repository when I was trying a Github tutorial.
+I would like to use this repository as a test repository or a temporary repository.
